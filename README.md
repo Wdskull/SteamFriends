@@ -33,3 +33,5 @@
 | ![](https://avatars.steamstatic.com/f57ecd447728aabb7acb52f5ecd1e159c9944676.jpg) | ericyuo886       | [76561199771271235](https://steamcommunity.com/profiles/76561199771271235/) | ✅           | 2024-09-08 06:00:50 |          |
 | ![](https://avatars.steamstatic.com/105b6a64586373fb4637789c974bd4676d71f73a.jpg) | Huverk           | [76561198868014188](https://steamcommunity.com/profiles/76561198868014188/) | ✅           | 2024-08-07 20:45:52 |          |
 | ![](https://avatars.steamstatic.com/59f779e9fbbf94363f79137bb8a6bb93bef9dbb5.jpg) | 五星上将痞老板          | [76561199174876610](https://steamcommunity.com/profiles/76561199174876610/) | ✅           | 2023-10-18 16:16:04 |          |
+| ![](https://avatars.steamstatic.com/a5d667220212bcf96829633a00aed727b5f1ae97.jpg) | LINDEX           | [76561198400840762](https://steamcommunity.com/profiles/76561198400840762/) | ✅           | 2024-10-11 11:35:22 |          |
+| ![](https://avatars.steamstatic.com/8d5aecf456aa5cefd6afd58d42985e64363ca954.jpg) | 咸鱼               | [76561198445051590](https://steamcommunity.com/profiles/76561198445051590/) | ✅           | 2024-10-11 17:27:06 |          |
