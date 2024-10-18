@@ -36,3 +36,4 @@
 | ![](https://avatars.steamstatic.com/a5d667220212bcf96829633a00aed727b5f1ae97.jpg) | LINDEX           | [76561198400840762](https://steamcommunity.com/profiles/76561198400840762/) | ✅           | 2024-10-11 11:35:22 |          |
 | ![](https://avatars.steamstatic.com/8d5aecf456aa5cefd6afd58d42985e64363ca954.jpg) | 咸鱼               | [76561198445051590](https://steamcommunity.com/profiles/76561198445051590/) | ✅           | 2024-10-11 17:27:06 |          |
 | ![](https://avatars.steamstatic.com/05c9d811c75729caea21e24feb829e1f3f229b17.jpg) | 欺鼠冉只打低端局         | [76561199223077280](https://steamcommunity.com/profiles/76561199223077280/) | ✅           | 2024-10-14 17:15:06 |          |
+| ![](https://avatars.steamstatic.com/c7ce961ffc4963f5375ecf63d9d2fa863a65c252.jpg) | MAEDA_YUTA       | [76561198288660485](https://steamcommunity.com/profiles/76561198288660485/) | ✅           | 2024-10-17 10:24:38 |          |
