@@ -39,3 +39,4 @@
 | ![](https://avatars.steamstatic.com/c7ce961ffc4963f5375ecf63d9d2fa863a65c252.jpg) | MAEDA_YUTA       | [76561198288660485](https://steamcommunity.com/profiles/76561198288660485/) | ✅           | 2024-10-17 10:24:38 |          |
 | ![](https://avatars.steamstatic.com/6a2fc5db958c11bad3a694860b667e41f480b5b2.jpg) | 力使徒              | [76561198144075036](https://steamcommunity.com/profiles/76561198144075036/) | ✅           | 2024-10-26 06:18:24 |          |
 | ![](https://avatars.steamstatic.com/8a78a24d3ae3031caf2695bc4dede2d6eb7af7cf.jpg) | umbrella         | [76561198983271788](https://steamcommunity.com/profiles/76561198983271788/) | ✅           | 2024-10-26 15:17:59 |          |
+| ![](https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376.jpg) | Normeee          | [76561198984944538](https://steamcommunity.com/profiles/76561198984944538/) | ✅           | 2024-10-31 14:39:45 |          |
