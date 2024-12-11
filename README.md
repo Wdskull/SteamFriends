@@ -41,3 +41,5 @@
 | ![](https://avatars.steamstatic.com/8a78a24d3ae3031caf2695bc4dede2d6eb7af7cf.jpg) | umbrella         | [76561198983271788](https://steamcommunity.com/profiles/76561198983271788/) | ✅           | 2024-10-26 15:17:59 |          |
 | ![](https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376.jpg) | Normeee          | [76561198984944538](https://steamcommunity.com/profiles/76561198984944538/) | ✅           | 2024-10-31 14:39:45 |          |
 | ![](https://avatars.steamstatic.com/6b5cb13331cba6a593f76634884d47227b04510d.jpg) | 一梦               | [76561198974173527](https://steamcommunity.com/profiles/76561198974173527/) | ✅           | 2024-11-29 02:51:36 |          |
+| ![](https://avatars.steamstatic.com/a3fbe60f59ce6d3fec7a302132b4177152e27fe6.jpg) | 混沌卵（触手PLAY）      | [76561199136688957](https://steamcommunity.com/profiles/76561199136688957/) | ✅           | 2024-12-10 13:55:09 |          |
+| ![](https://avatars.steamstatic.com/b047a1f4155792f11d37284c911f0904bac335c7.jpg) | 淡烟               | [76561199538787083](https://steamcommunity.com/profiles/76561199538787083/) | ✅           | 2024-12-10 13:55:24 |          |
