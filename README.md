@@ -16,7 +16,7 @@
 
 | Avatar                                                                            | Name             | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/1657b7010ea7b39e0d073a5d5cfe74000bf5f4ce.jpg) | KamijouMaster    | [76561198397678914](https://steamcommunity.com/profiles/76561198397678914/) | ✅           | 2021-07-08 10:38:31 |          |
+| ![](https://avatars.steamstatic.com/8b9d0aed77aa37362f06908105f645c57dd23539.jpg) | KamiJou_Master   | [76561198397678914](https://steamcommunity.com/profiles/76561198397678914/) | ✅           | 2021-07-08 10:38:31 |          |
 | ![](https://avatars.steamstatic.com/e45ad9a8ce8dbfa6433da61324a033acfbf628bf.jpg) | LEONG            | [76561199582430832](https://steamcommunity.com/profiles/76561199582430832/) | ✅           | 2023-12-12 12:03:11 |          |
 | ![](https://avatars.steamstatic.com/1de142a3306f5844aa3ea52040fb70bed93d8053.jpg) | k                | [76561198422095220](https://steamcommunity.com/profiles/76561198422095220/) | ✅           | 2023-12-17 15:25:26 |          |
 | ![](https://avatars.steamstatic.com/3e7fa82d331c950cc2dffca68c4e0f723849cff0.jpg) | 木星的~%?…;# *’☆&℃$ | [76561198207527413](https://steamcommunity.com/profiles/76561198207527413/) | ✅           | 2021-01-14 07:29:46 |          |
@@ -45,3 +45,4 @@
 | ![](https://avatars.steamstatic.com/acfeb35368053fc492fea73249f317f03fba3767.jpg) | 淡烟               | [76561199538787083](https://steamcommunity.com/profiles/76561199538787083/) | ✅           | 2024-12-10 13:55:24 |          |
 | ![](https://avatars.steamstatic.com/1191c81a57194f64acfcda94f0fd0cb94e92eff7.jpg) | 🐹 A V 🐹          | [76561198822404112](https://steamcommunity.com/profiles/76561198822404112/) | ✅           | 2025-02-12 12:55:43 |          |
 | ![](https://avatars.steamstatic.com/152b2468e6097ff687e6c7318270925aeb7bcb1c.jpg) | Sunset           | [76561198970412196](https://steamcommunity.com/profiles/76561198970412196/) | ✅           | 2025-02-15 15:30:54 |          |
+| ![](https://avatars.steamstatic.com/8a78a24d3ae3031caf2695bc4dede2d6eb7af7cf.jpg) | 旺达               | [76561199143357254](https://steamcommunity.com/profiles/76561199143357254/) | ✅           | 2025-02-25 15:39:14 |          |
