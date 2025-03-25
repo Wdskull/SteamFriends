@@ -16,7 +16,7 @@
 
 | Avatar                                                                            | Name             | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/8b9d0aed77aa37362f06908105f645c57dd23539.jpg) | KamiJou_Master   | [76561198397678914](https://steamcommunity.com/profiles/76561198397678914/) | ✅           | 2021-07-08 10:38:31 |          |
+| ![](https://avatars.steamstatic.com/778a50a907d928b71cd6f7f243a607b371544899.jpg) | KamiJou_Master   | [76561198397678914](https://steamcommunity.com/profiles/76561198397678914/) | ✅           | 2021-07-08 10:38:31 |          |
 | ![](https://avatars.steamstatic.com/e45ad9a8ce8dbfa6433da61324a033acfbf628bf.jpg) | LEONG            | [76561199582430832](https://steamcommunity.com/profiles/76561199582430832/) | ✅           | 2023-12-12 12:03:11 |          |
 | ![](https://avatars.steamstatic.com/1de142a3306f5844aa3ea52040fb70bed93d8053.jpg) | k                | [76561198422095220](https://steamcommunity.com/profiles/76561198422095220/) | ✅           | 2023-12-17 15:25:26 |          |
 | ![](https://avatars.steamstatic.com/3e7fa82d331c950cc2dffca68c4e0f723849cff0.jpg) | 木星的~%?…;# *’☆&℃$ | [76561198207527413](https://steamcommunity.com/profiles/76561198207527413/) | ✅           | 2021-01-14 07:29:46 |          |
@@ -38,7 +38,7 @@
 | ![](https://avatars.steamstatic.com/dddc8cdcf1010a9cd12a840b7597a9cf85298621.jpg) | 欺鼠冉只打低端局         | [76561199223077280](https://steamcommunity.com/profiles/76561199223077280/) | ✅           | 2024-10-14 17:15:06 |          |
 | ![](https://avatars.steamstatic.com/c7ce961ffc4963f5375ecf63d9d2fa863a65c252.jpg) | MAEDA_YUTA       | [76561198288660485](https://steamcommunity.com/profiles/76561198288660485/) | ✅           | 2024-10-17 10:24:38 |          |
 | ![](https://avatars.steamstatic.com/6a2fc5db958c11bad3a694860b667e41f480b5b2.jpg) | 力使徒              | [76561198144075036](https://steamcommunity.com/profiles/76561198144075036/) | ✅           | 2024-10-26 06:18:24 |          |
-| ![](https://avatars.steamstatic.com/8a78a24d3ae3031caf2695bc4dede2d6eb7af7cf.jpg) | umbrella         | [76561198983271788](https://steamcommunity.com/profiles/76561198983271788/) | ✅           | 2024-10-26 15:17:59 |          |
+| ![](https://avatars.steamstatic.com/1fa48f3adeb9594213eb5579244b70f7430ff46e.jpg) | umbrella         | [76561198983271788](https://steamcommunity.com/profiles/76561198983271788/) | ✅           | 2024-10-26 15:17:59 |          |
 | ![](https://avatars.steamstatic.com/14c94ace391b90e2c5c3e07e44f518f25a3d4376.jpg) | Normeee          | [76561198984944538](https://steamcommunity.com/profiles/76561198984944538/) | ✅           | 2024-10-31 14:39:45 |          |
 | ![](https://avatars.steamstatic.com/6b5cb13331cba6a593f76634884d47227b04510d.jpg) | 一梦               | [76561198974173527](https://steamcommunity.com/profiles/76561198974173527/) | ✅           | 2024-11-29 02:51:36 |          |
 | ![](https://avatars.steamstatic.com/5b749108da358f40775fc13f3700ec48d72bff57.jpg) | 混沌卵（触手PLAY）      | [76561199136688957](https://steamcommunity.com/profiles/76561199136688957/) | ✅           | 2024-12-10 13:55:09 |          |
