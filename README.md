@@ -47,3 +47,4 @@
 | ![](https://avatars.steamstatic.com/152b2468e6097ff687e6c7318270925aeb7bcb1c.jpg) | Sunset           | [76561198970412196](https://steamcommunity.com/profiles/76561198970412196/) | ✅           | 2025-02-15 15:30:54 |          |
 | ![](https://avatars.steamstatic.com/8a78a24d3ae3031caf2695bc4dede2d6eb7af7cf.jpg) | 旺达               | [76561199143357254](https://steamcommunity.com/profiles/76561199143357254/) | ✅           | 2025-02-25 15:39:14 |          |
 | ![](https://avatars.steamstatic.com/35bfe2fcebe8a9af16039a61d860b1a5b3545bcf.jpg) | 言ノ葉（Rain）        | [76561198929334808](https://steamcommunity.com/profiles/76561198929334808/) | ✅           | 2025-03-17 11:46:00 |          |
+| ![](https://avatars.steamstatic.com/5f932f28858cbe35dadad89eea89444a4b7ead8f.jpg) | Gannicus         | [76561198396140830](https://steamcommunity.com/profiles/76561198396140830/) | ✅           | 2025-04-26 19:20:58 |          |
