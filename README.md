@@ -16,7 +16,7 @@
 
 | Avatar                                                                            | Name             | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/cb2eaa20e2927bd577f1a628cb8509c58f952b64.jpg) | KamiJou_Master   | [76561198397678914](https://steamcommunity.com/profiles/76561198397678914/) | ✅           | 2021-07-08 10:38:31 |          |
+| ![](https://avatars.steamstatic.com/1af98ba65f7be9b03d28f0e7ee375b45bf2f8d8e.jpg) | KamiJou_Master   | [76561198397678914](https://steamcommunity.com/profiles/76561198397678914/) | ✅           | 2021-07-08 10:38:31 |          |
 | ![](https://avatars.steamstatic.com/e45ad9a8ce8dbfa6433da61324a033acfbf628bf.jpg) | LEONG            | [76561199582430832](https://steamcommunity.com/profiles/76561199582430832/) | ✅           | 2023-12-12 12:03:11 |          |
 | ![](https://avatars.steamstatic.com/1de142a3306f5844aa3ea52040fb70bed93d8053.jpg) | k                | [76561198422095220](https://steamcommunity.com/profiles/76561198422095220/) | ✅           | 2023-12-17 15:25:26 |          |
 | ![](https://avatars.steamstatic.com/3e7fa82d331c950cc2dffca68c4e0f723849cff0.jpg) | 木星的~%?…;# *’☆&℃$ | [76561198207527413](https://steamcommunity.com/profiles/76561198207527413/) | ✅           | 2021-01-14 07:29:46 |          |
