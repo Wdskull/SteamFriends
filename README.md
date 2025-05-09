@@ -49,3 +49,4 @@
 | ![](https://avatars.steamstatic.com/35bfe2fcebe8a9af16039a61d860b1a5b3545bcf.jpg) | 言ノ葉（Rain）        | [76561198929334808](https://steamcommunity.com/profiles/76561198929334808/) | ✅           | 2025-03-17 11:46:00 |          |
 | ![](https://avatars.steamstatic.com/5f932f28858cbe35dadad89eea89444a4b7ead8f.jpg) | Gannicus         | [76561198396140830](https://steamcommunity.com/profiles/76561198396140830/) | ✅           | 2025-04-26 19:20:58 |          |
 | ![](https://avatars.steamstatic.com/fb8a1083ee70e1d801997c229614d14fc6bc8db3.jpg) | 70hn10           | [76561198124360103](https://steamcommunity.com/profiles/76561198124360103/) | ✅           | 2025-05-06 17:04:35 |          |
+| ![](https://avatars.steamstatic.com/0ae81ca7c6209a3391ea86d2da7ff019658732e0.jpg) | JIU              | [76561198983540824](https://steamcommunity.com/profiles/76561198983540824/) | ✅           | 2025-05-08 03:37:00 |          |
